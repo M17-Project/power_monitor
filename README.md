@@ -1,5 +1,5 @@
 # power_monitor
-Power monitor for a repeater. Developed specifically for the [SR5MS M17 repeater](https://przemienniki.net/przemienniki/70cm/SR5MS?setlang=en) in Poland. The device hasn't been tested yet.
+Power monitor for a repeater. Developed specifically for the [SR5MS M17 repeater](https://przemienniki.net/przemienniki/70cm/SR5MS?setlang=en) in Poland. The device hasn't been tested yet.<br>
 <img src="https://user-images.githubusercontent.com/44336093/184401034-85ec8cce-7844-4971-b8fa-7ef0ffc827f1.png" alt="drawing" width="500"/>
 
 # Sensor
